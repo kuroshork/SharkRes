@@ -1,6 +1,6 @@
 # sharkres
 
-Switch your monitor to a stretched resolution (4:3, 16:9 or 16:10) with one hotkey, and switch back with the same key. Built for stretched-res gaming.
+Switch your monitor to a different resolution (4:3, 16:9 or 16:10) with one hotkey, and switch back with the same key. Built for stretched-res gaming.
 
 - Pick an aspect ratio, then a resolution and refresh rate your monitor supports
 - Set your own hotkey (default **Ctrl + Shift + J**)
